@@ -1,126 +1,126 @@
-\# 🎯 A-6 Digital Tools Buying Website
+# 🎯 A-6 Digital Tools Buying Website
 
 
 
-\## 📅 Deadlines
+## 📅 Deadlines
 
-\- 60 Marks: 1st April, 2026 (11:59 PM ⏱️)  
+- 60 Marks: 1st April, 2026 (11:59 PM ⏱️)  
 
-\- 50 Marks: No Deadline for 50 marks.  
+- 50 Marks: No Deadline for 50 marks.  
 
-\- 30 Marks: Any time after 1st April.  
+- 30 Marks: Any time after 1st April.  
 
 
 
-\---
+---
 
 
 
-\---
+---
 
 
 
-\## 🚫 Key Rules
+## 🚫 Key Rules
 
-\- Don't ask about mark distribution in the group. We don't provide it.  
+- Don't ask about mark distribution in the group. We don't provide it.  
 
-\- Don't post assignment feedback after you receive it. If you face any problem or have any complaints then join a support session and discuss it.  
+- Don't post assignment feedback after you receive it. If you face any problem or have any complaints then join a support session and discuss it.  
 
-\- Don’t use any lorem ipsum text, rather use relevant and meaningful text content.  
+- Don’t use any lorem ipsum text, rather use relevant and meaningful text content.  
 
-\- You can change the color if you want but remember that it should not be a gobindo color.  
+- You can change the color if you want but remember that it should not be a gobindo color.  
 
-\- Use at least 8 git commits with meaningful messages.  
+- Use at least 8 git commits with meaningful messages.  
 
 
 
-\---
+---
 
 
 
-\## 🧩 Features \& Requirements
+## 🧩 Features \& Requirements
 
 
 
-\### 🧭 Navbar
+### 🧭 Navbar
 
-\- Navbar designed according to Figma  
+- Navbar designed according to Figma  
 
-\- Cart icon displayed (initially empty)  
+- Cart icon displayed (initially empty)  
 
 
 
-\---
+---
 
 
 
-\### 🎯 Banner
+### 🎯 Banner
 
-\- Banner section includes:
+- Banner section includes:
 
-&#x20; - Heading  
+ - Heading  
 
-&#x20; - Description text  
+- Description text  
 
-&#x20; - Image  
+ - Image  
 
-&#x20; - Buttons  
+ - Buttons  
 
 
 
-\---
+---
 
 
 
-\### 📊 Stats Section
+### 📊 Stats Section
 
-\- Stats section designed based on Figma  
+- Stats section designed based on Figma  
 
 
 
-\---
+---
 
 
 
-\### 🔄 Main Section \& Toggling
+### 🔄 Main Section \& Toggling
 
-\- Design  2 buttons at the center of the section.
+- Design  2 buttons at the center of the section.
 
-\- By clicking Cart,  the cart section will be shown. By default it will show an empty message.
+- By clicking Cart,  the cart section will be shown. By default it will show an empty message.
 
-\- By Clicking  Product,  the Products section will be shown. 
+- By Clicking  Product,  the Products section will be shown. 
 
-\- By Default product section will be visible. 
+- By Default product section will be visible. 
 
 
 
 
 
-\---
+---
 
 
 
-\### 📦 JSON Data
+### 📦 JSON Data
 
 Create 6–10 product data with:
 
-\- id  
+- id  
 
-\- name  
+- name  
 
-\- description  
+- description  
 
-\- price  
+- price  
 
-\- period (one-time / monthly / yearly)  
+- period (one-time / monthly / yearly)  
 
-\- tag ( example- popular, new, best seller) 
+- tag ( example- popular, new, best seller) 
 
-\- tagType ( example- popular, new, best seller) 
+- tagType ( example- popular, new, best seller) 
 
-\- features ( array. Example:  \["100+ templates", "ATS optimization", "Export to PDF"] )   
+- features ( array. Example:  \["100+ templates", "ATS optimization", "Export to PDF"] )   
 
-\- icon  
+- icon  
 
 
 
@@ -128,205 +128,209 @@ Create 6–10 product data with:
 
 
 
-\---
+---
 
 
 
-\### 🃏 Product Cards
+### 🃏 Product Cards
 
-\- Display all products in a 3-column layout  
+- Display all products in a 3-column layout  
 
-\- Each card includes:
+- Each card includes:
 
-&#x20; - Name  
+ - Name  
 
-&#x20; - Description  
+ - Description  
 
-&#x20; - Price  
+- Price  
 
-&#x20; - Period  
+ - Period  
 
-&#x20; - TagType  
+ - TagType  
 
-&#x20; - Features  
+ - Features  
 
-&#x20; - Icon  
+ - Icon  
 
-&#x20; - Buy Now button  
+- Buy Now button  
 
 
 
-\---
+---
 
 
 
-\### 🛒 Cart Functionality
+### 🛒 Cart Functionality
 
-\- Show selected products in cart  
+- Show selected products in cart  
 
-\- Display total product count in navbar  
+- Display total product count in navbar  
 
-\- Cart layout: 1 column  
+- Cart layout: 1 column  
 
-\- Each cart item includes:
+- Each cart item includes:
 
-&#x20; - Name  
+ - Name  
 
-&#x20; - Icon  
+ - Icon  
 
-&#x20; - Price  
+ - Price  
 
-&#x20; - Remove button  
+ - Remove button  
 
-\- "Proceed to Checkout" button:
+- "Proceed to Checkout" button:
 
-&#x20; - Clears all cart items  
+ - Clears all cart items  
 
 
 
-\---
+---
 
 
 
-\### 🪜 Steps Section
+### 🪜 Steps Section
 
-\- Designed according to Figma  
+- Designed according to Figma  
 
 
 
-\---
+---
 
 
 
-\### 💰 Pricing Section
+### 💰 Pricing Section
 
-\- Designed according to Figma  
+- Designed according to Figma  
 
 
 
-\---
+---
 
 
 
-\### 🦶 Footer
+### 🦶 Footer
 
-\- Footer designed based on Figma  
+- Footer designed based on Figma  
 
 
 
-\---
+---
 
 
 
-\### 📱 Responsive Design
+### 📱 Responsive Design
 
-\- Fully responsive across devices  
+- Fully responsive across devices  
+- Follow standard responsive practices  
 
-\- Follow standard responsive practices  
 
 
+---
 
-\---
 
 
+# 🚀 Challenges Part 
 
-\# 🚀 Challenges Part 
 
 
+### 🔔 Use a NPM Package React-Toastify
 
-\### 🔔 Use a NPM Package React-Toastify
+- Use react toastify to show all the alerts of add to cart, remove, and proceed to checkout. 
 
-\- Use react toastify to show all the alerts of add to cart, remove, and proceed to checkout. 
 
 
 
 
+---
 
-\---
 
 
+### ❌ Implement Selected product remove functionality 
 
-\### ❌ Implement Selected product remove functionality 
+- On Click Remove Button product will remove from cart section.
 
-\- On Click Remove Button product will remove from cart section.
 
 
+- In this section the total of the selected products ( added on the carts) will show here. 
 
-\- In this section the total of the selected products ( added on the carts) will show here. 
+- Proceed to checkout button will remove all the products from the cart  
 
-\- Proceed to checkout button will remove all the products from the cart  
 
 
 
 
 
 
+---
 
-\---
 
 
+### 📂 GitHub Repository
 
-\### 📂 GitHub Repository
+- Create Beautiful Github Readme with following description
 
-\- Create Beautiful Github Readme with following description
+  
+	🚀 Name of your  Project
+   -DigiTools - Premium Digital Tools Platform
 
-&#x20;   - Name of your  Project
+  📌A little Description
 
-&#x09;	🚀 DigiTools - Premium Digital Tools Platform
+	 -DigiTools is a modern web application where users can explore and purchase premium digital tools.
+   -It provides a smooth shopping experience with cart functionality, dynamic UI, and responsive design.
 
-&#x20;   - A little Description
+   🛠️ Technology that you use
 
-&#x09;	📌 DigiTools is a modern web application where users can explore and purchase premium digital tools. It provides a 
+	 -⚛️ React.js
+   -🎨 Tailwind CSS + DaisyUI
+   -🔔 React Toastify
+   -📦 JSON (Local Data)
+   -💡 JavaScript (ES6)
 
-&#x09;		smooth shopping experience with cart functionality, dynamic UI, and responsive design.
+  ✨ 3 Features about your project. 
 
-&#x20;   - Technology that you use
+	-🛒 Add to Cart System Users can add products to cart and see real-time updates in the navbar.
+  -🔄 Dynamic Tab Switching Switch between Products and Cart instantly without page reload.
+  -🔔 Smart Notifications Toast notifications for adding/removing items from cart.
 
-&#x09;	 ⚛️ React.js 🎨 Tailwind CSS + DaisyUI 🔔 React Toastify 📦 JSON (Local Data) 💡 JavaScript (ES6)
 
-&#x20;   - 3 Features about your project. 
 
-&#x09;	🛒 Add to Cart System Users can add products to cart and see real-time updates in the navbar. 🔄 Dynamic Tab Switching Switch between Products and Cart instantly without page 		reload. 🔔 Smart Notifications Toast notifications for adding/removing items from cart.
 
-&#x20;
 
+---
 
+## Optional Features: 
 
-\---
 
-\## Optional Features: 
 
+1. When you click on a product it increases the cart count in the Navbar and clears it when you click on the proceed to checkout button. 
 
+2. When clicking on the Buy now Button it shows an “Added to cart” message on the button. 
 
-1\. When you click on a product it increases the cart count in the Navbar and clears it when you click on the proceed to checkout button. 
 
-2\. When clicking on the Buy now Button it shows an “Added to cart” message on the button. 
 
 
 
+## ⚙️ Technologies Used
 
+- React.js  
 
-\## ⚙️ Technologies Used
+- Tailwind CSS, DaisyUI 
 
-\- React.js  
+- JavaScript (ES6+)  
 
-\- Tailwind CSS, DaisyUI 
+- React-Toastify (NPM Package)  
 
-\- JavaScript (ES6+)  
+- JSON (for product data)  
 
-\- React-Toastify (NPM Package)  
 
-\- JSON (for product data)  
 
+---
 
 
-\---
 
+## 📤 What to submit:
 
+- GitHub Repository Link:
 
-\## 📤 What to submit:
-
-\- GitHub Repository Link:
-
-\- Live Site Link:
+- Live Site Link:
 
