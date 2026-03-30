@@ -27,7 +27,9 @@ const ProductSection = ({ activeTab, setActiveTab, cart, setCart }) => {
       <section className="py-16 px-4 max-w-7xl mx-auto">
         <div className="text-center mb-10">
           <h2 className="text-4xl font-black mb-4">Premium Digital Tools</h2>
-          
+            <p className="text-gray-500 max-w-2xl mx-auto mb-10">
+            Choose from our curated collection of premium digital products designed to boost your productivity and creativity.
+          </p>
           {/* Tab Switcher */}
           <div className="inline-flex bg-blue-600 p-1 rounded-full mb-10 shadow-lg">
             <button 
