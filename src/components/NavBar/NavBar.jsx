@@ -2,7 +2,7 @@ import React from "react";
 import bannerImg from "../../assets/banner.png";
 const NavBar = () => {
     return (
-        <header className="hero py-12 lg:py-20 px-4 lg:px-12">
+        <header className="hero py-12 lg:py-8 px-4 lg:px-12">
             <div className="hero-content flex-col lg:flex-row-reverse gap-12 lg:gap-24 p-0 max-w-7xl">
                 <div className="relative w-full max-w-lg">
                     <div className="absolute -inset-4 bg-primary/10 rounded-full blur-3xl opacity-30"></div>
